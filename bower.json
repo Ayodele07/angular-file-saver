@@ -23,7 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "blob-polyfill": "~1.0.20150320",
-    "file-saver.js": "eligrey/FileSaver.js#^1.3.3"
+    "blob-polyfill": "~1.0.20150320"
   }
 }
